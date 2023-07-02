@@ -2,6 +2,17 @@
 
 The purpose of RannLab Publication is to provide a streamlined platform for publishers to upload their raw files, add author details, and generate PDFs for distribution. It simplifies the publishing process and ensures consistent formatting and inclusion of author information.
 
+## Live and for login
+
+ Live : `https://thunderous-monstera-bfa708.netlify.app/`
+```json
+{
+  "name": "xyz",
+  "email": "has@gmail.com",
+  "password": "harqwe"
+}
+
+```
 ## Installation
 
 To install and run RannLab Publication on your local machine, follow these steps:
