@@ -48,3 +48,29 @@ To register a new user, make a `POST` request to `/register` with the following 
   "file": "raw file",
   "password": "harqwe"
 }
+```
+
+## Note 
+Ensure that you have a stable internet connection to access the MongoDB server.
+Check the connection string or configuration settings for any errors or typos.
+Verify that the MongoDB server's IP address and port number are correct.
+Check for any firewall or security restrictions that may be blocking the connection to the MongoDB server.
+
+## Screenshot
+![Screenshot (600)](https://github.com/harshsingh11-cyber/Ranlab-front/assets/65847214/cae5cb25-2f68-436a-812c-fc6777e0fa23)
+![Screenshot (601)](https://github.com/harshsingh11-cyber/Ranlab-front/assets/65847214/7b7f825b-da0e-45a3-9b4e-276594b85b80)
+![Screenshot (603)](https://github.com/harshsingh11-cyber/Ranlab-front/assets/65847214/0c41e8e7-8409-4c7c-8d3d-29437ad8d6fa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
