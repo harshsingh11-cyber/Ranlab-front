@@ -5,6 +5,9 @@ The purpose of RannLab Publication is to provide a streamlined platform for publ
 ## Live and for login
 
  Live : `https://thunderous-monstera-bfa708.netlify.app/`
+[live-point](https://thunderous-monstera-bfa708.netlify.app/)
+
+ 
 ```json
 {
   "name": "xyz",
